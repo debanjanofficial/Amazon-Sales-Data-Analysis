@@ -1,7 +1,7 @@
 # Amazon-Sales-Data-Analysis using Python
 
 ## Objective
-The objective of this analysis is to perform a comprehensive evaluation of Amazon sales data. By analyzing various aspects such as profit margins, sales performance, and regional distributions, we aim to uncover key insights and trends that can inform strategic decision-making and improve business outcomes.
+The objective of this analysis is to perform a comprehensive evaluation of Amazon sales data. By analyzing various aspects such as profit margins, sales performance, and regional distributions, I aim to uncover key insights and trends that can inform strategic decision-making and improve business outcomes.
 
 
 ## Discussion
